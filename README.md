@@ -21,8 +21,8 @@ Ce programme permet de créer, voter et supprimer des propositions de vote sur l
 ### Clonage et compilation
 
 ```bash
-git clone <repo-url>
-cd vote
+git clone https://github.com/Mattouff/voting-dao
+cd voting-dao
 anchor build
 ```
 
